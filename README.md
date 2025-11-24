@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Tushar
 
-**Data Analyst** focused on **Python, SQL, Excel, and Power BI**. 
+**Data Analyst** focused on **Python, SQL, Excel,Tablaeu, and Power BI**. 
 
 I recently completed my **10-month Data Analyst internship at AiVariant**, where I worked on:
 - 📊 Real-world datasets and data cleaning
