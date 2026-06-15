@@ -9,6 +9,7 @@
 📊 Building dashboards, ETL pipelines & KPI reports that drive real decisions
 
 ☁️ Azure — ADF · ADLS Gen2 · Synapse Analytics · Azure SQL
+
 ---
 ### 🛠️ Tools
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
