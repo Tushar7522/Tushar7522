@@ -2,19 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey,%20I'm%20Tushar!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=I%20turn%20raw%20data%20into%20real%20decisions&descAlignY=60&descSize=17" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tushar7522&style=for-the-badge&color=0e75b6)
-
 </div>
 
----
-
-🧑‍💻 **MIS Analyst** @ Nimbja Security Solutions Pvt. Ltd. · 1.4+ Years  
-📊 Building dashboards, ETL pipelines & KPI reports that drive real decisions  
-☁️ Working on Azure — ADF · ADLS Gen2 · Synapse Analytics · Azure SQL
+🧑‍💻 **MIS Analyst** @ Nimbja Security Solutions Pvt. Ltd. · 1.4+ Years
+📊 Building dashboards, ETL pipelines & KPI reports that drive real decisions
+☁️ Azure — ADF · ADLS Gen2 · Synapse Analytics · Azure SQL
 
 ---
 
-### 🛠️ Tools I Work With
+### 🛠️ Tools
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,16 +23,12 @@
 
 ---
 
-### 📫 Connect With Me
-
-<div align="center">
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tushar7522)
 
-</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 </div>
