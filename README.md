@@ -1,11 +1,13 @@
 ## 👋 Hi, I'm Tushar
 
-Data Analyst passionate about turning data into insights.
+💼 Experience:
+MIS Analyst @ Nimbja Security Solutions Pvt. Ltd. | 1.4+ Years
 
-**Experience:**  
-**Skills:** 🐍 Python | 🛢 SQL | 📗 Excel | 📈 Power BI | 📉 Tableau  
-**Focus:** Dashboards, ETL workflows, Data Visualization
+🛠 Skills:
+Power BI | SQL | Python | Excel | Azure
 
-🚀 Open to opportunities 
+☁️ Cloud:
+ADF | ADLS Gen2 | Synapse Analytics
 
-📫 [LinkedIn](https://www.linkedin.com/in/tusharchavan9604?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3pU6Ur9ETom3mC94FEjwhw%3D%3D) • [Email](tusharchavan9604@gmail.com) 
+🎯 Focus:
+Dashboards | ETL | Data Visualization
