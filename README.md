@@ -2,7 +2,7 @@
 
 Data Analyst passionate about turning data into insights.
 
-**Experience:** 10-month internship @AiVariant  
+**Experience:**  
 **Skills:** 🐍 Python | 🛢 SQL | 📗 Excel | 📈 Power BI | 📉 Tableau  
 **Focus:** Dashboards, ETL workflows, Data Visualization
 
