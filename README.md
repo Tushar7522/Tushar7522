@@ -2,25 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey,%20I'm%20Tushar!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=I%20turn%20raw%20data%20into%20real%20decisions&descAlignY=60&descSize=17" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=MIS+Analyst+%40+Nimbja+Security+Solutions;Power+BI+%7C+SQL+%7C+Python+%7C+Azure;Building+Dashboards+%26+ETL+Pipelines+🚀" alt="Typing SVG" />
-</a>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Tushar7522&style=for-the-badge&color=0e75b6)
 
 </div>
 
 ---
 
-```python
-tushar = {
-  "role"    : "MIS Analyst @ Nimbja Security Solutions Pvt. Ltd.",
-  "skills"  : ["Power BI", "SQL", "Python", "Excel", "Azure"],
-  "cloud"   : ["ADF", "ADLS Gen2", "Synapse Analytics", "Azure SQL"],
-  "focus"   : ["Dashboards", "ETL Pipelines", "KPI Reporting"],
-  "motto"   : "Clean data. Clear decisions. 📊"
-}
-```
+🧑‍💻 **MIS Analyst** @ Nimbja Security Solutions Pvt. Ltd. · 1.4+ Years  
+📊 Building dashboards, ETL pipelines & KPI reports that drive real decisions  
+☁️ Working on Azure — ADF · ADLS Gen2 · Synapse Analytics · Azure SQL
 
 ---
 
