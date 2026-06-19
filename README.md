@@ -4,7 +4,6 @@
 
 </div>
 
-🧑‍💻 **MIS Analyst** @ Nimbja Security Solutions Pvt. Ltd. · 1.4+ Years 
 
 📊 Building dashboards, ETL pipelines & KPI reports that drive real decisions
 
